@@ -1,29 +1,52 @@
-[
-    {
+{
+  "categorias": {
+    "Refrigerador": [
+      {
         "id": 1,
-        "titulo": "Smartphone X",
-        "imagem": "https://www.wikiparques.org/images/8/8c/2017935485904.jpg",
-        "link": "https://exemplo.com/smartphone",
-        "preco": 1999.90,
-        "descricao": "Smartphone com tela AMOLED e 128GB de armazenamento.",
-        "categoria": "Eletrônicos"
-    },
-    {
+        "nome": "Refrigerador Frost Free 400L",
+        "marca": "Brastemp",
+        "preco": 2999.99,
+        "imagem": "https://example.com/img/refrigerador1.jpg"
+      },
+      {
         "id": 2,
-        "titulo": "Camiseta Estilosa",
-        "imagem": "imagens/camiseta.jpg",
-        "link": "https://exemplo.com/camiseta",
-        "preco": 79.90,
-        "descricao": "Camiseta de algodão confortável e estilosa.",
-        "categoria": "Roupas"
-    },
-    {
+        "nome": "Refrigerador Inverter 500L",
+        "marca": "Samsung",
+        "preco": 3499.99,
+        "imagem": "https://example.com/img/refrigerador2.jpg"
+      }
+    ],
+    "Lavadoras": [
+      {
         "id": 3,
-        "titulo": "Fone Bluetooth",
-        "imagem": "imagens/fone.jpg",
-        "link": "https://exemplo.com/fone",
-        "preco": 299.90,
-        "descricao": "Fone sem fio com cancelamento de ruído.",
-        "categoria": "Eletrônicos"
-    }
-]
+        "nome": "Lavadora de Roupas 12kg",
+        "marca": "Electrolux",
+        "preco": 1899.99,
+        "imagem": "https://example.com/img/lavadora1.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Lavadora e Secadora 15kg",
+        "marca": "LG",
+        "preco": 3799.99,
+        "imagem": "https://example.com/img/lavadora2.jpg"
+      }
+    ],
+    "Microondas": [
+      {
+        "id": 5,
+        "nome": "Micro-ondas 30L Inox",
+        "marca": "Philco",
+        "preco": 599.99,
+        "imagem": "https://example.com/img/microondas1.jpg"
+      },
+      {
+        "id": 6,
+        "nome": "Micro-ondas 25L Preto",
+        "marca": "Panasonic",
+        "preco": 499.99,
+        "imagem": "https://example.com/img/microondas2.jpg"
+      }
+    ]
+  }
+}
