@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "titulo": "Smartphone X",
+        "imagem": "https://www.wikiparques.org/images/8/8c/2017935485904.jpg",
+        "link": "https://exemplo.com/smartphone",
+        "preco": 1999.90,
+        "descricao": "Smartphone com tela AMOLED e 128GB de armazenamento.",
+        "categoria": "Eletrônicos"
+    },
+    {
+        "id": 2,
+        "titulo": "Camiseta Estilosa",
+        "imagem": "imagens/camiseta.jpg",
+        "link": "https://exemplo.com/camiseta",
+        "preco": 79.90,
+        "descricao": "Camiseta de algodão confortável e estilosa.",
+        "categoria": "Roupas"
+    },
+    {
+        "id": 3,
+        "titulo": "Fone Bluetooth",
+        "imagem": "imagens/fone.jpg",
+        "link": "https://exemplo.com/fone",
+        "preco": 299.90,
+        "descricao": "Fone sem fio com cancelamento de ruído.",
+        "categoria": "Eletrônicos"
+    }
+]
