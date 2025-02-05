@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Fone de Ouvido Bluetooth",
+    "price": "R$ 99,90",
+    "image": "https://example.com/fone.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Carregador Turbo",
+    "price": "R$ 59,90",
+    "image": "https://example.com/carregador.jpg"
+  }
+]
